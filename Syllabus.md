@@ -29,6 +29,11 @@ Quizzes: 10%
 
 Grading will be done on a curve and not upon absolute thresholds.
 
+## Late Policy
+
+A 20% penalty will be applied for each day an assignment is late. 2 days late = 40% penalty (applies to unexcused tardiness or absence).
+Anything turned in on the due date but after the assigned time will be considered one day late. Ex. due date is Jan. 1st @ 4:00PM and an assignment is turned in on Jan 1st @ 4:15PM would demand a 20% penalty.  
+
 
 ## Class Material
 
